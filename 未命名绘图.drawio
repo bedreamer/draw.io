@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-12T08:52:34.936Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="CF5mCh70lwCanWa88ClA" version="12.6.7" type="github">
+<mxfile host="www.draw.io" modified="2020-02-12T08:53:11.285Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="4P8-35g4pytnd015HLKE" version="12.6.7" type="github">
   <diagram id="70CzTNJzPNa80F-RPJiq" name="第 1 页">
     <mxGraphModel dx="962" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -37,13 +37,13 @@
         <mxCell id="4IvTUrVCET20nHq62nAl-34" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="320" y="420" width="310" height="90" as="geometry"/>
         </mxCell>
-        <mxCell id="4IvTUrVCET20nHq62nAl-4" value="监视器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="4IvTUrVCET20nHq62nAl-34">
+        <mxCell id="4IvTUrVCET20nHq62nAl-4" value="监视模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="4IvTUrVCET20nHq62nAl-34">
           <mxGeometry x="210" y="60" width="100" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="4IvTUrVCET20nHq62nAl-5" value="控制器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="4IvTUrVCET20nHq62nAl-34">
+        <mxCell id="4IvTUrVCET20nHq62nAl-5" value="控制模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="4IvTUrVCET20nHq62nAl-34">
           <mxGeometry x="210" y="30" width="100" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="4IvTUrVCET20nHq62nAl-26" value="采集器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="4IvTUrVCET20nHq62nAl-34">
+        <mxCell id="4IvTUrVCET20nHq62nAl-26" value="采集模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="4IvTUrVCET20nHq62nAl-34">
           <mxGeometry x="210" width="100" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="4IvTUrVCET20nHq62nAl-28" value="" style="group;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" connectable="0" parent="4IvTUrVCET20nHq62nAl-34">
