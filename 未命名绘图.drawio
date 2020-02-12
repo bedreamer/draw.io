@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-12T12:21:55.917Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="7ZwJDdG9fM6C1ZVSzGF_" version="12.6.7" type="github">
+<mxfile host="www.draw.io" modified="2020-02-12T12:22:18.275Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="BsRpoG6TMe_PdJM118Bh" version="12.6.7" type="github">
   <diagram id="70CzTNJzPNa80F-RPJiq" name="第 1 页">
     <mxGraphModel dx="1186" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -245,14 +245,14 @@
         <mxCell id="4IvTUrVCET20nHq62nAl-4" value="监视模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4IvTUrVCET20nHq62nAl-90">
           <mxGeometry x="160" width="80" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="4IvTUrVCET20nHq62nAl-107" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#A50040;fillColor=#d80073;fontSize=12;fontColor=#ffffff;" vertex="1" parent="4IvTUrVCET20nHq62nAl-90">
-          <mxGeometry width="10" height="10" as="geometry"/>
-        </mxCell>
         <mxCell id="4IvTUrVCET20nHq62nAl-129" value="" style="endArrow=classicThin;startArrow=classicThin;html=1;strokeColor=#7EA6E0;strokeWidth=2;fontSize=13;fontColor=#000000;endSize=6;startSize=6;exitX=0.146;exitY=0.005;exitDx=0;exitDy=0;exitPerimeter=0;startFill=1;endFill=1;" edge="1" parent="1" source="4IvTUrVCET20nHq62nAl-128">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="650" y="540" as="sourcePoint"/>
             <mxPoint x="681" y="440" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4IvTUrVCET20nHq62nAl-107" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#A50040;fillColor=#d80073;fontSize=12;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="640" y="680" width="10" height="10" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
