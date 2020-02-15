@@ -1,13 +1,13 @@
-<mxfile host="www.draw.io" modified="2020-02-14T03:44:56.003Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="_TiQolf7JYgmmznOJa9t" version="12.6.8" type="github">
+<mxfile host="www.draw.io" modified="2020-02-15T01:37:01.946Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="h_j9S2lJhc9vmTRuTNT2" version="12.6.8" type="github">
   <diagram id="70CzTNJzPNa80F-RPJiq" name="总览">
-    <mxGraphModel dx="940" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1273" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
         <mxCell id="4IvTUrVCET20nHq62nAl-128" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;fontSize=13;fontColor=#000000;align=left;" parent="1" vertex="1">
           <mxGeometry x="640" y="680" width="280" height="200" as="geometry"/>
         </mxCell>
-        <mxCell id="4IvTUrVCET20nHq62nAl-6" value="数据库" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#cce5ff;strokeColor=#36393d;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="4IvTUrVCET20nHq62nAl-6" value="历史数据库" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#cce5ff;strokeColor=#36393d;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="170" y="860" width="80" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="4IvTUrVCET20nHq62nAl-30" value="数据总线1～n" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
@@ -321,6 +321,30 @@
         </mxCell>
         <mxCell id="KnAf25UadshciU3PqoVz-16" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#A50040;fillColor=#d80073;fontSize=12;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="560" y="320" width="10" height="10" as="geometry"/>
+        </mxCell>
+        <mxCell id="KnAf25UadshciU3PqoVz-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=12;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classicThin;startFill=1;strokeWidth=2;fontSize=10;" edge="1" parent="1" source="KnAf25UadshciU3PqoVz-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="440" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="1045" y="440"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KnAf25UadshciU3PqoVz-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=12;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classicThin;startFill=1;strokeWidth=2;fontSize=10;" edge="1" parent="1" source="KnAf25UadshciU3PqoVz-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="600" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="1045" y="600"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KnAf25UadshciU3PqoVz-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=12;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classicThin;startFill=1;strokeWidth=2;fontSize=10;" edge="1" parent="1" source="KnAf25UadshciU3PqoVz-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="519" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KnAf25UadshciU3PqoVz-19" value="实时数据库" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_partition_2.svg;strokeColor=#000000;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="500" width="50" height="37" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
