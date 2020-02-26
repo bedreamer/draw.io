@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-26T00:18:29.735Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="l37jcqsXj-z4-_peWP0u" version="12.7.6" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2020-02-26T00:25:13.121Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="mQ1ooP3923OPh5x5K86D" version="12.7.6" type="github" pages="3">
   <diagram id="70CzTNJzPNa80F-RPJiq" name="总览">
     <mxGraphModel dx="1107" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -465,7 +465,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6qrtIVK29SdAdTYCr17t" name="SCADA">
-    <mxGraphModel dx="1107" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="c2Rdyi2XteAfcV3VKGUd-0" />
         <mxCell id="c2Rdyi2XteAfcV3VKGUd-1" parent="c2Rdyi2XteAfcV3VKGUd-0" />
@@ -478,26 +478,23 @@
         <mxCell id="c2Rdyi2XteAfcV3VKGUd-4" value="系统事模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="c2Rdyi2XteAfcV3VKGUd-1">
           <mxGeometry x="240" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c2Rdyi2XteAfcV3VKGUd-5" value="数据源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="c2Rdyi2XteAfcV3VKGUd-1">
-          <mxGeometry x="400" y="200" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="c2Rdyi2XteAfcV3VKGUd-6" value="历史数据库" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="c2Rdyi2XteAfcV3VKGUd-1">
           <mxGeometry x="240" y="80" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="c2Rdyi2XteAfcV3VKGUd-7" value="实时数据库" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="c2Rdyi2XteAfcV3VKGUd-1">
           <mxGeometry x="360" y="80" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="c2Rdyi2XteAfcV3VKGUd-8" value="采集器模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="c2Rdyi2XteAfcV3VKGUd-1">
-          <mxGeometry x="560" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="c2Rdyi2XteAfcV3VKGUd-8" value="数据源采集器模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="c2Rdyi2XteAfcV3VKGUd-1">
+          <mxGeometry x="880" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c2Rdyi2XteAfcV3VKGUd-9" value="配置数据库" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="c2Rdyi2XteAfcV3VKGUd-1">
           <mxGeometry x="480" y="80" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="c2Rdyi2XteAfcV3VKGUd-10" value="监视模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="c2Rdyi2XteAfcV3VKGUd-1">
-          <mxGeometry x="560" y="320" width="120" height="60" as="geometry" />
+        <mxCell id="c2Rdyi2XteAfcV3VKGUd-10" value="数据源监视模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="c2Rdyi2XteAfcV3VKGUd-1">
+          <mxGeometry x="720" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c2Rdyi2XteAfcV3VKGUd-11" value="控制模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="c2Rdyi2XteAfcV3VKGUd-1">
-          <mxGeometry x="400" y="320" width="120" height="60" as="geometry" />
+        <mxCell id="c2Rdyi2XteAfcV3VKGUd-11" value="数据源控制模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="c2Rdyi2XteAfcV3VKGUd-1">
+          <mxGeometry x="560" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c2Rdyi2XteAfcV3VKGUd-12" value="用户管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="c2Rdyi2XteAfcV3VKGUd-1">
           <mxGeometry x="80" y="320" width="120" height="60" as="geometry" />
@@ -507,6 +504,21 @@
         </mxCell>
         <mxCell id="c2Rdyi2XteAfcV3VKGUd-14" value="SCADA模块总览" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=Tahoma;fontSize=16;" vertex="1" parent="c2Rdyi2XteAfcV3VKGUd-1">
           <mxGeometry x="65" y="20" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="c2Rdyi2XteAfcV3VKGUd-15" value="事故回放模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="c2Rdyi2XteAfcV3VKGUd-1">
+          <mxGeometry x="80" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c2Rdyi2XteAfcV3VKGUd-16" value="通讯接口管理模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="c2Rdyi2XteAfcV3VKGUd-1">
+          <mxGeometry x="720" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c2Rdyi2XteAfcV3VKGUd-17" value="前置机管理模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="c2Rdyi2XteAfcV3VKGUd-1">
+          <mxGeometry x="400" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c2Rdyi2XteAfcV3VKGUd-18" value="通讯协议管理模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="c2Rdyi2XteAfcV3VKGUd-1">
+          <mxGeometry x="560" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c2Rdyi2XteAfcV3VKGUd-19" value="数据源管理模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="c2Rdyi2XteAfcV3VKGUd-1">
+          <mxGeometry x="400" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
