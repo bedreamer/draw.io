@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-26T00:17:52.894Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="8Wn6lGG2wMhUqj3r-bfs" version="12.7.6" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2020-02-26T00:18:29.735Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="l37jcqsXj-z4-_peWP0u" version="12.7.6" type="github" pages="3">
   <diagram id="70CzTNJzPNa80F-RPJiq" name="总览">
     <mxGraphModel dx="1107" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -504,6 +504,9 @@
         </mxCell>
         <mxCell id="c2Rdyi2XteAfcV3VKGUd-13" value="用户邮件模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="c2Rdyi2XteAfcV3VKGUd-1">
           <mxGeometry x="240" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c2Rdyi2XteAfcV3VKGUd-14" value="SCADA模块总览" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=Tahoma;fontSize=16;" vertex="1" parent="c2Rdyi2XteAfcV3VKGUd-1">
+          <mxGeometry x="65" y="20" width="150" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
