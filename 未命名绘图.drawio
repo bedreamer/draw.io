@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-26T00:32:04.226Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="vPsDP2uz7xVuLwyMeTjM" version="12.7.6" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2020-02-26T00:38:17.566Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="uZickNZRePAa9BXCsbvZ" version="12.7.6" type="github" pages="3">
   <diagram id="70CzTNJzPNa80F-RPJiq" name="总览">
     <mxGraphModel dx="1107" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -470,7 +470,7 @@
         <mxCell id="c2Rdyi2XteAfcV3VKGUd-0" />
         <mxCell id="c2Rdyi2XteAfcV3VKGUd-1" parent="c2Rdyi2XteAfcV3VKGUd-0" />
         <mxCell id="c2Rdyi2XteAfcV3VKGUd-2" value="总操作面板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="c2Rdyi2XteAfcV3VKGUd-1">
-          <mxGeometry x="440" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="360" y="290" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c2Rdyi2XteAfcV3VKGUd-3" value="系统日志模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="c2Rdyi2XteAfcV3VKGUd-1">
           <mxGeometry x="200" y="480" width="120" height="40" as="geometry" />
@@ -478,8 +478,14 @@
         <mxCell id="c2Rdyi2XteAfcV3VKGUd-4" value="系统事件模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="c2Rdyi2XteAfcV3VKGUd-1">
           <mxGeometry x="360" y="480" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="c2Rdyi2XteAfcV3VKGUd-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="c2Rdyi2XteAfcV3VKGUd-1" source="c2Rdyi2XteAfcV3VKGUd-6" target="c2Rdyi2XteAfcV3VKGUd-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="c2Rdyi2XteAfcV3VKGUd-6" value="历史数据库" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="c2Rdyi2XteAfcV3VKGUd-1">
           <mxGeometry x="200" y="40" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c2Rdyi2XteAfcV3VKGUd-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="c2Rdyi2XteAfcV3VKGUd-1" source="c2Rdyi2XteAfcV3VKGUd-7" target="c2Rdyi2XteAfcV3VKGUd-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c2Rdyi2XteAfcV3VKGUd-7" value="实时数据库" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="c2Rdyi2XteAfcV3VKGUd-1">
           <mxGeometry x="200" y="130" width="80" height="40" as="geometry" />
@@ -487,8 +493,11 @@
         <mxCell id="c2Rdyi2XteAfcV3VKGUd-8" value="数据源采集器模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="c2Rdyi2XteAfcV3VKGUd-1">
           <mxGeometry x="680" y="640" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="c2Rdyi2XteAfcV3VKGUd-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="c2Rdyi2XteAfcV3VKGUd-1" source="c2Rdyi2XteAfcV3VKGUd-9" target="c2Rdyi2XteAfcV3VKGUd-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="c2Rdyi2XteAfcV3VKGUd-9" value="配置数据库" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="c2Rdyi2XteAfcV3VKGUd-1">
-          <mxGeometry x="200" y="210" width="80" height="40" as="geometry" />
+          <mxGeometry x="200" y="220" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c2Rdyi2XteAfcV3VKGUd-10" value="数据源监视模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="c2Rdyi2XteAfcV3VKGUd-1">
           <mxGeometry x="520" y="640" width="120" height="40" as="geometry" />
