@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-26T01:12:38.515Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="WSVAj-f31JWJG6SC2UZm" version="12.7.6" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2020-02-26T01:28:05.775Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="QUAr_dmDFIRi12Wv07Rn" version="12.7.6" type="github" pages="3">
   <diagram id="Ho8N4EeAJC9536Kt4F_t" name="透明上网">
     <mxGraphModel dx="1186" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -465,7 +465,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6qrtIVK29SdAdTYCr17t" name="SCADA模块">
-    <mxGraphModel dx="1395" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="988" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="c2Rdyi2XteAfcV3VKGUd-0" />
         <mxCell id="c2Rdyi2XteAfcV3VKGUd-1" parent="c2Rdyi2XteAfcV3VKGUd-0" />
@@ -497,7 +497,7 @@
           <mxGeometry x="200" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c2Rdyi2XteAfcV3VKGUd-13" value="用户邮件模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="c2Rdyi2XteAfcV3VKGUd-1">
-          <mxGeometry x="320" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="440" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c2Rdyi2XteAfcV3VKGUd-14" value="SCADA模块总览" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=Tahoma;fontSize=16;" vertex="1" parent="c2Rdyi2XteAfcV3VKGUd-1">
           <mxGeometry x="65" y="10" width="150" height="20" as="geometry" />
@@ -549,6 +549,9 @@
         </mxCell>
         <mxCell id="cFlWgDnMccTFYtzeqt75-4" value="计划任务管理模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="c2Rdyi2XteAfcV3VKGUd-1">
           <mxGeometry x="560" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cFlWgDnMccTFYtzeqt75-7" value="权限管理模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="c2Rdyi2XteAfcV3VKGUd-1">
+          <mxGeometry x="320" y="200" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
