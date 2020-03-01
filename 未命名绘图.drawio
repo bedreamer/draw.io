@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-01T01:58:44.890Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="_hMvwt_9AFltKoarOhlO" version="12.7.9" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2020-03-01T03:11:39.800Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="_SW99mYJta_ONGQxTIV0" version="12.7.9" type="github" pages="4">
   <diagram id="Ho8N4EeAJC9536Kt4F_t" name="透明上网">
     <mxGraphModel dx="532" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -1004,6 +1004,11 @@
         <mxCell id="CKyL-MUA5agV3ea4SWUU-1" parent="CKyL-MUA5agV3ea4SWUU-0" />
         <mxCell id="CKyL-MUA5agV3ea4SWUU-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="CKyL-MUA5agV3ea4SWUU-1" source="CKyL-MUA5agV3ea4SWUU-2" target="CKyL-MUA5agV3ea4SWUU-3">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CKyL-MUA5agV3ea4SWUU-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CKyL-MUA5agV3ea4SWUU-1" source="CKyL-MUA5agV3ea4SWUU-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="200" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="CKyL-MUA5agV3ea4SWUU-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="CKyL-MUA5agV3ea4SWUU-1">
           <mxGeometry x="80" y="40" width="40" height="80" as="geometry" />
