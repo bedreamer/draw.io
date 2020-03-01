@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-01T01:51:51.688Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="fs-dmhmGDyzRSdpkLC5n" version="12.7.9" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2020-03-01T01:58:44.890Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="_hMvwt_9AFltKoarOhlO" version="12.7.9" type="github" pages="4">
   <diagram id="Ho8N4EeAJC9536Kt4F_t" name="透明上网">
     <mxGraphModel dx="532" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -1058,7 +1058,7 @@
         </mxCell>
         <mxCell id="CKyL-MUA5agV3ea4SWUU-37" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="CKyL-MUA5agV3ea4SWUU-36">
           <mxGeometry x="-0.6957" y="-2" relative="1" as="geometry">
-            <mxPoint x="2" y="-8" as="offset" />
+            <mxPoint x="2" y="-1.7599999999999998" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CKyL-MUA5agV3ea4SWUU-14" value="请求会话&lt;br&gt;是否已经登陆" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="CKyL-MUA5agV3ea4SWUU-1">
@@ -1074,7 +1074,7 @@
         </mxCell>
         <mxCell id="CKyL-MUA5agV3ea4SWUU-44" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="CKyL-MUA5agV3ea4SWUU-21">
           <mxGeometry x="-0.8286" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="2.94" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CKyL-MUA5agV3ea4SWUU-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="CKyL-MUA5agV3ea4SWUU-1" source="CKyL-MUA5agV3ea4SWUU-18" target="CKyL-MUA5agV3ea4SWUU-23">
@@ -1098,7 +1098,7 @@
         </mxCell>
         <mxCell id="CKyL-MUA5agV3ea4SWUU-43" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="CKyL-MUA5agV3ea4SWUU-26">
           <mxGeometry x="-0.6302" relative="1" as="geometry">
-            <mxPoint y="-39" as="offset" />
+            <mxPoint y="-34.71" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CKyL-MUA5agV3ea4SWUU-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="CKyL-MUA5agV3ea4SWUU-1" source="CKyL-MUA5agV3ea4SWUU-23" target="CKyL-MUA5agV3ea4SWUU-32">
