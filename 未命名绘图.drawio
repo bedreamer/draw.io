@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-01T01:34:37.738Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="dK8cN7cMDEJvnMiC9Sf_" version="12.7.9" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2020-03-01T01:36:19.594Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="5KysANBSoxmTv-EGFKLS" version="12.7.9" type="github" pages="4">
   <diagram id="Ho8N4EeAJC9536Kt4F_t" name="透明上网">
     <mxGraphModel dx="532" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -1061,7 +1061,7 @@
             <mxPoint x="2" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CKyL-MUA5agV3ea4SWUU-14" value="是否已经登陆" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="CKyL-MUA5agV3ea4SWUU-1">
+        <mxCell id="CKyL-MUA5agV3ea4SWUU-14" value="请求会话&lt;br&gt;是否已经登陆" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="CKyL-MUA5agV3ea4SWUU-1">
           <mxGeometry x="160" y="360" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CKyL-MUA5agV3ea4SWUU-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="CKyL-MUA5agV3ea4SWUU-1" source="CKyL-MUA5agV3ea4SWUU-18" target="CKyL-MUA5agV3ea4SWUU-9">
@@ -1109,7 +1109,7 @@
             <mxPoint x="-19" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CKyL-MUA5agV3ea4SWUU-23" value="视图是否已经授权" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="CKyL-MUA5agV3ea4SWUU-1">
+        <mxCell id="CKyL-MUA5agV3ea4SWUU-23" value="请求视图&lt;br&gt;是否已经授权" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="CKyL-MUA5agV3ea4SWUU-1">
           <mxGeometry x="560" y="360" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CKyL-MUA5agV3ea4SWUU-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="CKyL-MUA5agV3ea4SWUU-1" source="CKyL-MUA5agV3ea4SWUU-32" target="CKyL-MUA5agV3ea4SWUU-38">
@@ -1127,7 +1127,7 @@
         <mxCell id="CKyL-MUA5agV3ea4SWUU-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="CKyL-MUA5agV3ea4SWUU-1" source="CKyL-MUA5agV3ea4SWUU-38" target="CKyL-MUA5agV3ea4SWUU-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CKyL-MUA5agV3ea4SWUU-38" value="返回请求结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CKyL-MUA5agV3ea4SWUU-1">
+        <mxCell id="CKyL-MUA5agV3ea4SWUU-38" value="结果转换为response" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CKyL-MUA5agV3ea4SWUU-1">
           <mxGeometry x="40" y="680" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
